@@ -1,0 +1,20 @@
+{
+  "name": "CampusMatrix - Algorithmic Routing Simulator",
+  "short_name": "CampusMatrix",
+  "description": "Interactive 3D visualization of graph algorithms",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#07080A",
+  "theme_color": "#00F0FF",
+  "orientation": "landscape-primary",
+  "icons": [
+    {
+      "src": "/favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ],
+  "categories": ["education", "utilities", "productivity"],
+  "screenshots": []
+}
