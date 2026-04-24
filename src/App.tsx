@@ -639,7 +639,6 @@ const HUDOverlay = () => {
   const borderClass = isDark ? 'border-white/10' : 'border-gray-300';
   const textClass = isDark ? 'text-white' : 'text-gray-900';
   const textMutedClass = isDark ? 'text-white/40' : 'text-gray-500';
-  const panelBg = isDark ? 'bg-black/60' : 'bg-white/80';
 
   return (
     <div className={`absolute inset-0 pointer-events-none z-10 transition-colors duration-500`}>
