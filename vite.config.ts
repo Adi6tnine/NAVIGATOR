@@ -39,9 +39,6 @@ export default defineConfig({
         },
       },
     },
-    
-    // Minification
-    minify: 'terser',
   },
   
   // Preview server configuration
